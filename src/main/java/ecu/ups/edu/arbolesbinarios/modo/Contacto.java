@@ -37,7 +37,5 @@ public class Contacto {
     public String toString() {
         return "Contacto{" + "contacto=" + contacto + ", telefono=" + telefono + '}';
     }
-    
-    
   
 }
